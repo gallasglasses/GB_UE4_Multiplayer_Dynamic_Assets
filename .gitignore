@@ -73,8 +73,6 @@ Plugins/*/Binaries/*
 # Cache files for the editor to use
 */DerivedDataCache/*
 
-
-
 */Content/FirstPerson/*
 */Content/FirstPersonBP/*
 */Content/Geometry/*
@@ -82,3 +80,4 @@ Plugins/*/Binaries/*
 */Content/Mannequin/*
 */Content/ThirdPerson/*
 */Content/ThirdPersonBP/*
+*/Content/ParagonMurdock/*
